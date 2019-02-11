@@ -12,5 +12,7 @@ Ingredients:
   - ingredient 1
   - ingredient 2
   - ingredient 3
-  - ingredients 4, 5, 6!!!
   - Uh oh, this is gonna be trouble!!
+  - Merge conflict 1
+  - ingredients 4, 5, 6!!!
+
