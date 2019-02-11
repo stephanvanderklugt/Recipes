@@ -12,3 +12,5 @@ Ingredients:
   - ingredient 1
   - ingredient 2
   - ingredient 3
+  - Merge conflict 1
+  - Merge conflict 2
