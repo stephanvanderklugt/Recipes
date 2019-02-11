@@ -9,3 +9,6 @@ Ingredients:
   - bouillon
   - peanutbutter
   - marmelade
+  - ingredient 1
+  - ingredient 2
+  - ingredient 3
